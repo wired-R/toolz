@@ -1,4 +1,4 @@
-#Set of minimalistic style packages
+# Set of minimalistic style packages
 
 ### 1 Spinner
 How to use:
